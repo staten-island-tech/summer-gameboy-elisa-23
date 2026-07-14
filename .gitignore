@@ -1,0 +1,10 @@
+build
+build-samples
+prebuilt
+*.gb
+*.gbc
+*.map
+*.o
+*.sav
+*.swp
+*.sym
